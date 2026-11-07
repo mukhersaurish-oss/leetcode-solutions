@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -13,5 +14,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
