@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -21,10 +22,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0054-spiral-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
