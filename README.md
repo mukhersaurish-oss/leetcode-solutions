@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0015-3sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
