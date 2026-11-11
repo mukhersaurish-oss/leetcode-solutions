@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0189-rotate-array) |
