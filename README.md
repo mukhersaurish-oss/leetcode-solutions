@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0775-global-and-local-inversions](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0775-global-and-local-inversions) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0775-global-and-local-inversions](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/0775-global-and-local-inversions) |
 | [2965-find-missing-and-repeated-values](https://github.com/mukhersaurish-oss/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
